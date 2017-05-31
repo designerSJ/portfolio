@@ -34,6 +34,8 @@ h1{
     letter-spacing: 5px;
     font-size: 3em;
     margin-bottom: 2px;
+  -webkit-filter: drop-shadow(0 8px 3px black);
+            filter: drop-shadow(0 8px 3px black);
 }
 
 p{
